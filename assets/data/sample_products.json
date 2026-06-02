@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "name": "Ácido Sulfúrico",
+    "commonNames": ["Aceite de Vitriolo", "Sulfuric Acid"],
+    "manufacturer": "Químicas Industriales S.A.",
+    "chemicalFormula": "H2SO4",
+    "hazardLevel": "Crítico",
+    "hazards": ["Corrosivo", "Inflamable", "Reactivo"],
+    "safetyMeasures": [
+      "Usar equipo de protección personal completo",
+      "Manipular en áreas bien ventiladas",
+      "Nunca añadir agua al ácido, siempre ácido al agua",
+      "Mantener lejos de bases y materiales incompatibles"
+    ],
+    "firstAidMeasures": [
+      "En caso de contacto con piel: lavar inmediatamente con abundante agua durante al menos 15 minutos",
+      "En caso de contacto ocular: lavar con agua durante al menos 15 minutos y buscar atención médica inmediata",
+      "En caso de inhalación: trasladar al aire fresco y buscar atención médica",
+      "En caso de ingestión: NO inducir vómito, buscar atención médica de emergencia inmediatamente"
+    ],
+    "storageRequirements": "Almacenar en contenedores de plástico resistente a ácidos en lugar fresco, seco y bien ventilado. Separado de bases y materiales incompatibles.",
+    "spillRemediation": "Evacuar el área. Usar equipo de protección completo. Contener el derrame con material absorbente no combustible. Recoger el material contenido en un contenedor seguro. Limpiar la zona con agua. No permitir que drene al sistema de alcantarillado.",
+    "physicalState": "Líquido",
+    "color": "Incoloro o amarillento",
+    "odor": "Sin olor característico"
+  },
+  {
+    "id": "2",
+    "name": "Cloro Gas",
+    "commonNames": ["Chlorine", "Cl2"],
+    "manufacturer": "Químicas Industriales S.A.",
+    "chemicalFormula": "Cl2",
+    "hazardLevel": "Crítico",
+    "hazards": ["Tóxico", "Reactivo", "Ambiental"],
+    "safetyMeasures": [
+      "Usar equipo de protección respiratoria adecuado",
+      "Manipular en campanas extractoras",
+      "Tener disponible sistemas de ventilación de emergencia",
+      "Almacenar en cilindros sellados a presión"
+    ],
+    "firstAidMeasures": [
+      "En caso de inhalación: trasladar inmediatamente al aire fresco",
+      "En caso de contacto ocular: lavar con agua durante al menos 15 minutos",
+      "En caso de contacto con piel: retirar ropa contaminada y lavar con agua",
+      "Buscar atención médica inmediatamente para exposiciones significativas"
+    ],
+    "storageRequirements": "Almacenar en cilindros de acero a presión en lugar fresco, seco y bien ventilado. Mantener fuera de la luz directa del sol. Separado de materiales reactivos.",
+    "spillRemediation": "Evacuar el área inmediatamente. Permitir que el gas se disperse en el aire. Sellar la fuente del escape si es seguro hacerlo. No entrar en el área del derrame sin equipo de protección respiratoria adecuado. Contaminación del suelo debe ser tratada profesionalmente.",
+    "physicalState": "Gas",
+    "color": "Amarillo-verdoso",
+    "odor": "Olor penetrante característico"
+  },
+  {
+    "id": "3",
+    "name": "Gasolina",
+    "commonNames": ["Petrol", "Nafta"],
+    "manufacturer": "Petrolera Nacional",
+    "chemicalFormula": "C4-C12",
+    "hazardLevel": "Alto",
+    "hazards": ["Inflamable", "Reactivo", "Ambiental"],
+    "safetyMeasures": [
+      "Mantener lejos de fuentes de ignición",
+      "Usar en áreas bien ventiladas",
+      "Evitar inhalación de vapores",
+      "Usar recipientes seguros para almacenamiento"
+    ],
+    "firstAidMeasures": [
+      "En caso de inhalación: trasladar al aire fresco",
+      "En caso de contacto con piel: lavar con agua y jabón",
+      "En caso de contacto ocular: lavar con agua durante varios minutos",
+      "En caso de ingestión: buscar atención médica inmediatamente"
+    ],
+    "storageRequirements": "Almacenar en contenedores metálicos aprobados en lugar fresco y bien ventilado. Mantener alejado de fuentes de calor e ignición.",
+    "spillRemediation": "Detener la fuga si es seguro hacerlo. Contener el derrame con barreras absorbentes. Recoger el material contenido en un recipiente seguro. Limpiar la zona con agua. No permitir que entre en drenajes o cuerpos de agua.",
+    "physicalState": "Líquido",
+    "color": "Incoloro a amarillento",
+    "odor": "Olor característico de gasolina"
+  }
+]
